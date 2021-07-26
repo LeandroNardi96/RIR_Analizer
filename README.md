@@ -29,3 +29,7 @@ filtros correspondientes y se tendrá que re-adaptar el código. El código func
 - ProcessMain: Procesamiento y chequeo de errores o warning a la hora de elegir una ventana, cargado de archivos.
 - Filter_generator: Crea los filtros por octava o tercios en función de la Fs que se desee.
 
+Este trabajo fue realizado para la materia Señales y Sistemas de la carrera Ingeniería de Sonido, en conjunto con:
+- Gonzalo Sosa: https://www.linkedin.com/in/gonzalososa095/
+- María Sol Brito: https://www.linkedin.com/in/maria-sol-brito-377a70157/
+- Mario Winter: https://www.linkedin.com/in/mario-winter-aa30b8118/
