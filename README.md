@@ -7,7 +7,7 @@ Una vez seleccionada la interfaz de audio y colocado el nombre de la carpeta, se
 
 A continuación, se deja una breve descripción de qué hace cada script:
 
-- RIR_Analyzer: $\textbf{Script principal}$, allí se crea la GUI y se realizan todos los callbacks.
+- RIR_Analyzer: **Script principal**, allí se crea la GUI y se realizan todos los callbacks.
 - SineSweep : Código de generación del SS. Aquí también se produce el proceso de reproducción, guardado y gráficos de
 las RIR grabadas, a modo de chequear si la medición sirve o no.
 - PinkNoise: Código de generación del ruido rosa. Se utiliza para una calibración antes de realizar la medición.
